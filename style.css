@@ -1,0 +1,396 @@
+.style
+{
+	color:white;
+}
+
+.slider
+{
+	width:410px;
+}
+
+.jumbotron 
+{
+	background-image:url("images/pink_rice.png");
+	background-attachment:fixed;
+	min-height:500px;
+}
+
+.jumbotron h1
+{
+	color:white;
+}
+
+.blue
+{
+	color:black;
+	background:none;
+}
+
+body 
+{
+	background-image:url("images/rockywall.png");
+}
+
+.alt1
+{
+	background-image:url("images/pink_rice.png");
+	color:black;
+	background-attachment:fixed;
+	min-height:500px;
+}
+
+.alt2
+{
+	background:white;
+}
+
+.alt3
+{
+	background:#000000;
+	color:white;
+}
+
+.icon 
+{
+	width:28px;
+	height:30px;
+	margin:auto;
+}
+
+.size
+{
+	width:555px;
+	height:356px
+}
+
+.white
+{
+	background-color:black;
+	color:white;
+}
+
+.black
+{
+	background-color:white;
+	color:black;
+}
+
+.navbar-toggle 
+{
+	color:white;
+}
+
+.link
+{
+	background-color:white;
+	color:black;
+}
+
+.link:hover
+{
+	background-image:url("images/pink_rice.png");
+	background-attachment:fixed;
+	color:white;
+}
+
+.float
+{
+	float:right;
+}
+
+.link2
+{
+	background-color:black;
+	color:white;
+}
+
+.link2:hover
+{
+	background-image:url("images/pink_rice.png");
+	background-attachment:fixed;
+	color:white;
+}
+
+.padding 
+{
+	min-height:660px;
+}
+
+.padding2
+{
+	min-height:680px;
+}
+
+.padding3
+{
+	min-height:1450px;
+}
+
+.twitter-tweet
+{
+	margin-left:auto;
+	margin-right:auto;
+	padding-bottom:23px;
+}
+
+.size1
+{
+	width:70px;
+	height:70px;
+}
+
+#position1 
+{
+	display:inline-block;
+	padding-left:76px;
+	padding-right:76px;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+.hovereffect 
+{
+  width:100%;
+  height:100%;
+  float:left;
+  overflow:hidden;
+  position:relative;
+  text-align:center;
+  cursor:default;
+}
+
+.hovereffect h2, .hovereffect img {
+  -webkit-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+}
+
+.hovereffect img {
+  display: block;
+  position: relative;
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.hovereffect:hover img {
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+}
+
+.fixed
+{
+    position:fixed;
+	top:45px;
+}
+
+.fixed1
+{
+    position:fixed;
+	top:85px;
+}
+
+.fixed2
+{
+    position:fixed;
+	top:125px;
+}
+
+.fixed3
+{
+    position:fixed;
+	top:165px;
+}
+
+.fixed4
+{
+    position:fixed;
+	top:205px;
+}
+
+.fixed6
+{
+    position:fixed;
+	top:245px;
+}
+
+.ghost 
+{
+  background-color:transparent;
+  color:#A1A1A1;
+  border:1px solid $primary;
+  transition:.2s ease;
+}
+
+.ghost:hover 
+{
+    background-color:white;
+    color:#A1A1A1;
+    transition:.2s ease;
+}
+
+/*Episodes Page*/
+
+.jumbotron-special
+{
+	background-image:url("https://media2.ntslive.co.uk/resize/1600x1600/204da4e1-5046-4a68-831e-5281590fb1de_1457481600.jpeg");
+	background-attachment:fixed;
+}
+
+#position2
+{
+	display:inline-block;
+	padding-top:15px;
+	padding-bottom:15px;
+	padding-left:29px;
+	padding-right:20px;
+}
+
+.text
+{
+	width:300px;
+}
+
+.font
+{
+	font-weight:bold;
+	font-family:helvetica;
+}
+
+.white1
+{
+	background-color:black;
+	color:white;
+}
+
+.black1
+{
+	background-color:white;
+	color:black;
+}
+
+.white1:hover
+{
+	background-color:white;
+	color:black;
+}
+
+.black1:hover
+{
+	background-color:black;
+	color:white;
+}
+
+.float 
+{
+	float:right;
+}
+
+.opacity:hover 
+{
+	background:rgba(0,0,0,0.5);
+	cursor:pointer;
+	left:0.8;
+	top:0.8;
+	opacity:0.6;
+	-webkit-transition:opacity 500ms;
+	-moz-transition:opacity 500ms;
+	transition:opacity 500ms;
+}
+
+.desc 
+{
+	background:rgba(white, 0.5);
+	font-weight:bold;
+	text-align:center;
+	opacity:0.8;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+/*Merchandise Page*/ 
+
+.jumbotron-special2
+{
+	background-image:url("images/Rory1.jpg");
+	background-attachment:fixed;
+}
+
+.alignment
+{
+	display:inline-block;
+	padding-top:15px;
+	padding-bottom:5px;
+}
+
+.view
+{
+	width:450px;
+	height:440px;
+	padding-left:105px;
+}
+
+
+
+img
+{
+	width:100%;
+	height:auto;
+}
+
+.space
+{
+	width:349px;
+	font-weight:bold;
+	font-family:helvetica;
+}
+
+.pos
+{
+	padding-left:105px;
+}
+
+.mouse
+{
+	cursor:pointer;
+}
+
+select
+{
+	font-size:18px;
+}
+
+/*Contact Page*/
+
+.body2
+{
+	background-image:url("images/pink_rice.png");
+}
+
+.layoutt
+{
+	background-color:rgba(0,0,0,0.5);
+	text-align:center;
+	padding-left:30px;
+	padding-right:30px;
+	padding-bottom:30px;
+	padding-top:30px;
+}
+
+p h1 h2 h3 h4 button form label
+{
+	font-family:helvetica;
+}
+
+.end 
+{
+	font-size:50px;
+	color:white;
+}
+
+label
+{
+	font-size:16px;
+	font-family:helvetica;
+	color:white;
+}
